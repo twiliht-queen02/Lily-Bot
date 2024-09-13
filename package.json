@@ -1,0 +1,21 @@
+{
+    "name": "lily-bot",
+    "version": "1.0.0",
+    "description": "Discord.js v14 boş altyapı",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "altyapi"
+    ],
+    "author": "Liberte",
+    "license": "MIT",
+    "dependencies": {
+        "@discordjs/voice": "^0.17.0",
+        "discord.js": "^14.16.1"
+    }
+}
